@@ -22,11 +22,12 @@ class MainBanner extends Component {
                                     <div className="col-lg-6">
                                         <div className="main-banner-content">
                                             <span className="">Patient Centric, Compassion Driven, Care Delivery</span>
-                                            <h1>
-                                                Exceptional <strong className="text-purple">Care</strong>.
+                                            <h1 className="no-wrap">Exceptional &nbsp;<strong className="text-purple">
+                                                People</strong>.
                                             </h1>
-                                            <h1 className="no-wrap">Exceptional &nbsp;<strong className="text-lime">
-                                                People</strong>.</h1>
+                                            <h1>
+                                                Exceptional <strong className="text-lime">Care</strong>.
+                                            </h1>
                                             <p className="pt-1 pb-4">
                                                 Crossway Companies is a managing company for 
                                                 <strong className="fw-bold text-purple"> Crossway 
