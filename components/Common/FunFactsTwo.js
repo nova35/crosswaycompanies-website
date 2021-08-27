@@ -47,7 +47,8 @@ class FunFactsTwo extends Component {
                             </div>
                         </div>
 
-                        {/* <div className="contact-cta-box">
+                        {/* 
+                            <div className="contact-cta-box">
                             <h3>Have any questions about us?</h3>
                             <p></p>
 
