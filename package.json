@@ -6,7 +6,8 @@
     "scripts": {
         "dev": "next",
         "build": "next build && next export",
-        "start": "next start"
+        "start": "next start",
+        "heroku-postbuild": "npm run build"
     },
     "author": "EnvyTheme.com",
     "license": "ISC",
