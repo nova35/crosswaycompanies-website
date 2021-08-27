@@ -75,7 +75,7 @@ class Navbar extends Component {
                                                 Our Companies <i className="icofont-thin-down"></i>
                                             </a>
                                         </Link>
-                                        <ul className="dropdown-menu mega-dropdown-menu">
+                                        <ul className="dropdown-menu mega-dropdown-menu pt-3 pb-2">
                                             <li className="nav-item">
                                                 <Link href="/" activeClassName="active">
                                                     <a className="nav-link">Crossway Homecare</a>
@@ -83,7 +83,7 @@ class Navbar extends Component {
                                             </li>
                                             <li className="nav-item">
                                                 <Link href="/" activeClassName="active">
-                                                    <a className="nav-link">Crossway Transit</a>
+                                                    <a className="nav-link">Crossway Data</a>
                                                 </Link>
                                             </li>
                                             <li className="nav-item">
