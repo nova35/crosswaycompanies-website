@@ -1,8 +1,98 @@
 {
-  "./dev/noop": [
+  "react-modal-video": [
     {
-      "id": "./node_modules/next/dist/client/dev/noop.js",
-      "file": "static/chunks/0.js"
+      "id": "+wdc",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "0x2o",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "16Al",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "17x9",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "8L3h",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "QCnb",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "WbBG",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "f/k9",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "i8i4",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "nKUr",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "q1tI",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "viRO",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "yl30",
+      "file": "static/chunks/framework.349d8128c43083da4feb.js"
+    },
+    {
+      "id": "60Bi",
+      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
+    },
+    {
+      "id": "S3Uj",
+      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
+    },
+    {
+      "id": "Si88",
+      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
+    },
+    {
+      "id": "TqRt",
+      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
+    },
+    {
+      "id": "VOcB",
+      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
+    },
+    {
+      "id": "xfxO",
+      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
+    },
+    {
+      "id": "yD6e",
+      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
+    },
+    {
+      "id": "ycFn",
+      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
+    },
+    {
+      "id": "VCL8",
+      "file": "static/chunks/58.6568c9dafe53dff3ff04.js"
+    }
+  ],
+  "react-owl-carousel3": [
+    {
+      "id": "Rst5",
+      "file": "static/chunks/5.f576d3c4dba461e0ffb5.js"
     }
   ]
 }
