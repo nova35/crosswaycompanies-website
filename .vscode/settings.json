@@ -3,6 +3,5 @@
         "node_modules{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/47793f23-75ec-4b9b-89b1-cfae7d440da9/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/crossway-website",
     "appService.deploySubpath": "out"
 }
