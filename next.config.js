@@ -5,10 +5,4 @@ module.exports = {
         includePaths: [path.join(__dirname, 'styles')],
     },
     trailingSlash: true,
-    exportPathMap: function() {
-        return {
-            '/': { page: '/' }
-        };
-    },
-    exportTrailingSlash: true,
 }
