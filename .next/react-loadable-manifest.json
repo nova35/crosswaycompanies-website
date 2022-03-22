@@ -1,98 +1,137 @@
 {
-  "react-modal-video": [
-    {
-      "id": "+wdc",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "0x2o",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "16Al",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "17x9",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "8L3h",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "QCnb",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "WbBG",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "f/k9",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "i8i4",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "nKUr",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "q1tI",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "viRO",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "yl30",
-      "file": "static/chunks/framework.349d8128c43083da4feb.js"
-    },
-    {
-      "id": "60Bi",
-      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
-    },
-    {
-      "id": "S3Uj",
-      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
-    },
-    {
-      "id": "Si88",
-      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
-    },
-    {
-      "id": "TqRt",
-      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
-    },
-    {
-      "id": "VOcB",
-      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
-    },
-    {
-      "id": "xfxO",
-      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
-    },
-    {
-      "id": "yD6e",
-      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
-    },
-    {
-      "id": "ycFn",
-      "file": "static/chunks/6.9d9d730f674835f82d1e.js"
-    },
-    {
-      "id": "VCL8",
-      "file": "static/chunks/58.6568c9dafe53dff3ff04.js"
-    }
-  ],
-  "react-owl-carousel3": [
-    {
-      "id": "Rst5",
-      "file": "static/chunks/5.f576d3c4dba461e0ffb5.js"
-    }
-  ]
+  "../components/BusinessAgency/MainBanner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/BusinessAgencyTwo/MainBanner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/Common/Feedback.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/Common/FeedbackTwo.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/Common/LatestNewsSlider.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/Common/LatestNewsSliderTwo.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/Common/TeamStyleThree.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/CreativeAgency/MainBanner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/DefaultHomeTwo/MainBanner.js -> react-modal-video": {
+    "id": 1239,
+    "files": []
+  },
+  "../components/MarketingAgency/MainBanner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/MarketingAgencyTwo/MainBanner.js -> react-modal-video": {
+    "id": 1239,
+    "files": []
+  },
+  "../components/MarketingAgencyTwo/MainBanner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/Portfolio/WorksStyleOne.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/PortfolioAgency/MainBanner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/PortfolioAgencyTwo/MainBanner.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/1239-96d812210c0a3808.js",
+      "static/chunks/9294.919a5c7b911c96bc.js"
+    ]
+  },
+  "../components/StartupAgency/BestServices.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/StartupAgency/FeaturedServices.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/StartupAgencyTwo/BestServices.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/StartupAgencyTwo/FeaturedServices.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/StartupAgencyTwo/MainBanner.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/1239-96d812210c0a3808.js"
+    ]
+  },
+  "../components/StudioAgency/OurWorks.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/StudioAgencyTwo/OurWorks.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  },
+  "../components/Team/TeamStyleThree.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.7295eaed28f44d82.js"
+    ]
+  }
 }
